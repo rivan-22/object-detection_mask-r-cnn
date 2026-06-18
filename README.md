@@ -167,7 +167,6 @@ Model yang digunakan adalah **Mask R-CNN Inception V2** yang dilatih pada **MS-C
 
 ## 📚 Referensi
 
-- He, K., Gkioxari, G., Dollár, P., & Girshick, R. (2017). [Mask R-CNN](https://arxiv.org/abs/1703.06870). *ICCV 2017*.
 - [OpenCV DNN Module Documentation](https://docs.opencv.org/4.x/d2/d58/tutorial_table_of_content_dnn.html)
 - [MS-COCO Dataset](https://cocodataset.org/)
 
